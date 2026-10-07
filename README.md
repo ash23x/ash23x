@@ -3,7 +3,7 @@
 **BioMEMS & RF scientist — now building at the seam between hardware instinct and AI.**
 Founder & principal, **Ontos Labs**. Independent R&D, LabVIEW automation, and local-first open-source tools.
 
-Around 25 years in piezoelectric MEMS and RF biosensors — PhD in BioMEMS/RF (Cranfield), postdoctoral work at Cambridge and Bolton, and engagement with ITRI/TSMC in Taiwan. Co-inventor on a granted FBAR biosensor patent (details below). These days I aim the same habits — signal, noise, and the physics underneath — at AI toolchains and the software that ships out the other end.
+Around 25 years in piezoelectric MEMS and RF biosensors — PhD in BioMEMS/RF (Cranfield), postdoctoral work at Nottingham, NPL, Cambridge and Bolton, and engagement with ITRI/TSMC in Taiwan. Co-inventor on a granted FBAR biosensor patent (details below). These days I aim the same habits — signal, noise, and the physics underneath — at AI toolchains and the software that ships out the other end.
 
 One bias runs through everything below: **it runs on your own machine, needs no cloud, and asks for no subscription.**
 
@@ -33,6 +33,8 @@ Python · LabVIEW · COMSOL / MATLAB RF · local LLM stacks (Ollama · ChromaDB 
 ## Background
 
 BSc Biomedical Science · MSc Biosensors · PhD BioMEMS/RF (Cranfield)
+
+Postdoc days at the **Laboratory of Biophysics and Surface Analysis** (Nottingham) and the **National Physical Laboratory**, with John Hedley and Peter Cumpson, on the nanobalance: self-calibrating MEMS force combs for AFM, meant to make every cantilever traceable to the SI. It never quite worked. We tried.
 
 Co-inventor (filed as **Ashley-James, Gregory**) on granted patent **[EP2791665B1](https://patents.google.com/patent/EP2791665B1)** — *Identification of environmental and temperature sensor changes with a two-layer bulk acoustic wave resonator* — Cambridge Enterprise / University of Bolton, granted 2018.
 
